@@ -2,8 +2,6 @@
     "name": "line/line",
     "description": "line appcation",
     "require": {
-        "php": ">=7.0.0",
-        "laravel/laravel": "^8.6"
     },
     "autoload": {
         "psr-4": {
