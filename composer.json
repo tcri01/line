@@ -1,11 +1,15 @@
 {
-    "name": "line/line",
-    "description": "line appcation",
-    "require": {
-    },
+    "name": "tcri/line",
     "autoload": {
         "psr-4": {
-            "Line\\Line\\": "src/"
+            "Tcri\\Line\\": "src/"
         }
-    }
+    },
+    "authors": [
+        {
+            "name": "chan don",
+            "email": "leoabjvz@gmail.com"
+        }
+    ],
+    "require": {}
 }
