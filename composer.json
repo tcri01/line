@@ -2,6 +2,7 @@
     "name": "line/line",
     "description": "line appcation",
     "require": {
+        "line/line": "^1.0.0"
     },
     "autoload": {
         "psr-4": {
